@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rachit Mahajan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Student and Learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitmahajan8&label=Profile%20views&color=0e75b6&style=flat" alt="rachitmahajan8" /> </p>
 
-- 🔭 I’m currently working on **Student Profile Management Sysytem**
+- 🔭 I’m currently working on **Student Profile Management System**
 
 - 🌱 I’m currently learning **DSA and JS Frameworks**
 
