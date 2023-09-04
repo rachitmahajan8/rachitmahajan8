@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **rachitmahajan0816@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/nrpdqcbzjgxt](https://www.overleaf.com/read/nrpdqcbzjgxt)
-
 - ⚡ Fun fact **I have an uncanny knack for transforming the ordinary into confetti whenever my excitement levels go off the charts! 🎉💥**
 
 <h3 align="left">Connect with me:</h3>
